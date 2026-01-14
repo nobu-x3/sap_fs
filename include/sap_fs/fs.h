@@ -1,8 +1,8 @@
 #pragma once
 
-#include <types.h>
-#include <result.h>
-#include <timestamp.h>
+#include <sap_core/types.h>
+#include <sap_core/result.h>
+#include <sap_core/timestamp.h>
 
 #include <filesystem>
 #include <vector>
